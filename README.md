@@ -6,7 +6,7 @@ The system is designed to reduce unsupported or hallucinated responses by requir
 
 ## Live Demo
 
-**Live Application:** Add your Render URL here
+**Live Application:** https://evidence-grounded-rag-document.onrender.com/
 
 **GitHub Repository:**  
 https://github.com/salonipandagale/Evidence-Grounded-RAG-Document-Intelligence
